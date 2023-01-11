@@ -1,0 +1,1 @@
+<tr>{ACTIVITIES}</tr>

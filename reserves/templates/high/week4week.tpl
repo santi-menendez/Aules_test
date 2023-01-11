@@ -1,0 +1,15 @@
+<TR><td valign="top">{WEEK_ZOOM}</td>{DAY}</TR>
+<TR><td valign="middle">08-09</td>{DAY_H8}</TR>
+<TR><td valign="middle">09-10</td>{DAY_H9}</TR>
+<TR><td valign="middle">10-11</td>{DAY_H10}</TR>
+<TR><td valign="middle">11-12</td>{DAY_H11}</TR>
+<TR><td valign="middle">12-13</td>{DAY_H12}</TR>
+<TR><td valign="middle">13-14</td>{DAY_H13}</TR>
+<TR><td valign="middle">14-15</td>{DAY_H14}</TR>
+<TR><td valign="middle">15-16</td>{DAY_H15}</TR>
+<TR><td valign="middle">16-17</td>{DAY_H16}</TR>
+<TR><td valign="middle">17-18</td>{DAY_H17}</TR>
+<TR><td valign="middle">18-19</td>{DAY_H18}</TR>
+<TR><td valign="middle">19-20</td>{DAY_H19}</TR>
+<TR><td valign="middle">20-21</td>{DAY_H20}</TR>
+<TR><td valign="middle">21-22</td>{DAY_H21}</TR>

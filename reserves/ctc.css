@@ -1,0 +1,46 @@
+.clsBody
+{
+    BORDER-RIGHT: #DAC6D7 thin solid;
+    BORDER-TOP: #C6D7DA thin solid;
+    BORDER-LEFT: #C6D7DA thin solid;
+    BORDER-BOTTOM: #C6D7DA thin solid;
+}
+
+.clsCurrentWeek {
+	BORDER-TOP: #c6d7da thin solid; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; BORDER-BOTTOM: #c6d7da thin solid; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #8cc6ff; TEXT-DECORATION: none
+}
+
+.clsCurrentWeek2 {
+	BORDER-TOP: #c6d7da thin solid; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; BORDER-BOTTOM: #c6d7da thin solid; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+
+.clsDayName {
+	font-size: 12px;
+	color: #0c0b5f;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	white-space: nowrap;
+	background-color: #bbbaf5;
+	text-decoration: none;
+	font-weight: bold;
+}
+.clsCurrentDay {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #398ce7; TEXT-DECORATION: none
+}
+.clsWorkDay {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #dbeaf5; TEXT-DECORATION: none
+}
+.clsWorkDay:hover {
+	FONT-SIZE: 12px; COLOR: #009400; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #dbeaf5; TEXT-DECORATION: underline
+}
+.clsWorkDayOtherMonth {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+.clsWeekEnd {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #dbeaf5; TEXT-DECORATION: none
+}
+.clsWeekEnd:hover {
+	FONT-SIZE: 12px; COLOR: #009400; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #dbeaf5; TEXT-DECORATION: underline
+}
+.clsWeekEndOtherMonth {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
